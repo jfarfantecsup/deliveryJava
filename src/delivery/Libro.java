@@ -13,4 +13,13 @@ public class Libro {
     int id;
     String nombre;
     String autor;
+
+    public Libro(int id, String nombre, String autor) {
+        this.id = id;
+        this.nombre = nombre;
+        this.autor = autor;
+    }
+    
+    
+    
 }
