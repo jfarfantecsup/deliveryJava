@@ -20,29 +20,12 @@ public class Libro {
         this.autor = autor;
     }
 
-    public int getId() {
-        return id;
+    @Override
+    public String toString() {
+        return "Libro{" + "id=" + id + ", nombre=" + nombre + ", autor=" + autor + '}';
     }
 
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public String getNombre() {
-        return nombre;
-    }
-
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
-
-    public String getAutor() {
-        return autor;
-    }
-
-    public void setAutor(String autor) {
-        this.autor = autor;
-    }
+    
     
     
     
