@@ -5,6 +5,9 @@
         <group>
             <file>file:/D:/Documentos/NetBeansProjects/Delivery/src/delivery/modelo/Categoria.java</file>
             <file>file:/D:/Documentos/NetBeansProjects/Delivery/src/delivery/dao/BaseDAO.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/Delivery/src/delivery/dao/UsuarioDAO.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/Delivery/src/delivery/modelo/Usuario.java</file>
+            <file>file:/D:/Documentos/NetBeansProjects/Delivery/src/delivery/util/ConexionDB.java</file>
             <file>file:/D:/Documentos/NetBeansProjects/Delivery/src/delivery/Delivery.java</file>
         </group>
     </open-files>
